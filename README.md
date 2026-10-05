@@ -1,27 +1,34 @@
 # Aula de Tabelas em HTML
 
-Exercício introdutório desenvolvido durante meus estudos de **HTML**, com foco na criação e organização de dados utilizando tabelas.
+Exercício desenvolvido durante meus estudos de desenvolvimento web. O projeto começou como uma tabela HTML simples e posteriormente recebeu uma pequena refatoração para aplicar conhecimentos de **HTML semântico, CSS e responsividade**.
 
 ## 🎯 Objetivo
 
-Praticar a estrutura básica de uma tabela HTML e compreender o uso de elementos como:
+Praticar a criação e organização de dados em tabelas e registrar minha evolução desde os fundamentos de HTML.
 
-- `<table>`
-- `<tr>`
-- `<th>`
-- `<td>`
-
-## 💻 Tecnologias
+## 🛠️ Tecnologias
 
 - HTML5
+- CSS3
 
-## 📚 Contexto
+## 📚 Conceitos praticados
 
-Este repositório faz parte do meu histórico de aprendizado em desenvolvimento web. Ele foi mantido propositalmente simples para registrar minha evolução desde os fundamentos de HTML até projetos mais completos.
+- Estrutura de tabelas com `table`, `tr`, `th` e `td`
+- Organização semântica com `caption`, `thead` e `tbody`
+- Atributo `scope` em cabeçalhos
+- Separação entre estrutura HTML e apresentação CSS
+- Layout responsivo
+- Estados visuais para disponibilidade de produtos
 
-## 🚀 Evolução
+## 🔄 Evolução do exercício
 
-Hoje continuo desenvolvendo projetos mais completos envolvendo interfaces web, sistemas e automações. Este exercício permanece público como registro das primeiras etapas dessa trajetória.
+A versão inicial continha apenas uma tabela HTML básica. Mantive os mesmos dados do exercício original e evoluí sua estrutura e apresentação, adicionando semântica, estilos e melhor comportamento em telas menores.
+
+Essa evolução foi feita propositalmente sem frameworks ou JavaScript: o objetivo continua sendo demonstrar fundamentos de **HTML + CSS**.
+
+## 🚀 Próximos passos
+
+O exercício está concluído dentro de sua proposta educacional. Projetos mais avançados do meu portfólio exploram outras tecnologias e conceitos.
 
 ---
 
